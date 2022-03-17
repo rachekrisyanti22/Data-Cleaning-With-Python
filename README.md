@@ -5,7 +5,7 @@
 Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data within a dataset. When combining multiple data sources, there are many opportunities for data to be duplicated or mislabeled. If data is incorrect, outcomes and algorithms are unreliable, even though they may look correct. There is no one absolute way to prescribe the exact steps in the data cleaning process because the processes will vary from dataset to dataset. But it is crucial to establish a template for your data cleaning process so you know you are doing it the right way every time. (Source: https://www.tableau.com/learn/articles/what-is-data-cleaning).
 
 
-# I conducted data cleaning on a data set that I took from the Kaggle Website. The data set is Telco Customer Churn. 
+I conducted data cleaning on a data set that I took from the Kaggle Website. The data set is Telco Customer Churn. 
 This data contains information on Telco company customers in the form of services taken by each customer and their churn status in the last month. 
 
 
