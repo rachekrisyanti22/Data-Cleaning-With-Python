@@ -70,6 +70,8 @@ In this data set there are 21 columns with the following information:
 
 * Change the data type of the Total Charges column with the appropriate data type.
 * Perform imputation of the missing value in the Total Charges column.
+* Remove columns not needed for modeling.
+* Categorical data encoding.
  
 
 
